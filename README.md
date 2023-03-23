@@ -2,4 +2,4 @@
 
 Este es mi perfil de github.
 
-Los lenguajes que voy a usar son: **HTML**, **CSS** Y **JS**
+Los lenguajes que voy a usar son: **HTML**, **CSS** Y **JS**.
